@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alirejashaikh
-- 🔭 Currently doing my internship as a Fullstack Engineer.
+- 🔭 Currently doing my Internship as a Fullstack Engineer.
 - 🌱 Currently I'm learning ASP.NET.
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
